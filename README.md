@@ -36,8 +36,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ### 4. Key Features of the Analysis
 ✅ Handling missing values and data cleaning
+
 ✅ Univariate and bivariate visualizations
+
 ✅ Correlation heatmaps and statistical summaries
+
 ✅ Outlier detection
+
 ✅ Optional: Feature engineering and hypothesis testing
 
